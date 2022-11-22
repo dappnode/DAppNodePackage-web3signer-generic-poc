@@ -1,0 +1,11 @@
+[
+    {
+        "labels": {
+            "package": "web3signer-gnosis.dnp.dappnode.eth",
+            "service": "web3signer.web3signer-gnosis.dappnode"
+        },
+        "targets": [
+            "web3signer.web3signer-gnosis.dappnode:9091"
+        ]
+    }
+]

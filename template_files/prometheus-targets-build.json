@@ -1,0 +1,11 @@
+[
+    {
+        "labels": {
+            "package": "web3signer${_BUILD_API_NETWORK}.dnp.dappnode.eth",
+            "service": "web3signer.web3signer${_BUILD_API_NETWORK}.dappnode"
+        },
+        "targets": [
+            "web3signer.web3signer${_BUILD_API_NETWORK}.dappnode:9091"
+        ]
+    }
+]
